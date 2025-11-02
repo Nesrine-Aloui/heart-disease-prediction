@@ -1,0 +1,3 @@
+,Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,prediction_nn,Prediction_LR,Prediction_svm,Prediction_rfc,Prediction_dtree
+0,49,1,0,124,201,0,0,164,0,0,0,0,0,0,0,0
+1,44,0,0,150,288,0,0,150,1,3,1,1,1,1,1,0
